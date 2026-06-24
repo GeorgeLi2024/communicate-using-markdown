@@ -2,6 +2,8 @@
 
 ## Morning Planning
 
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="200" align="right">
+
 - [ ] Check out the [github blog](https://github.blog/) for topic ideas.
 - [ ] Read a chapter of a programming book.
 - [ ] Write one blog post.
